@@ -1,0 +1,7 @@
+{
+  "name": "So-cket",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
